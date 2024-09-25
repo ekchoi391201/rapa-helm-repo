@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    created: "2024-09-25T07:01:34.914452141Z"
+    digest: d77aa811d51ce3ad571fa1e9786dd68b35b8835017198fc5680b22f9a4f04a3b
+    name: myapp
+    urls:
+    - https://ekchoi391201.github.io/rapa-helm-repo/myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-09-25T07:01:34.914062543Z"
